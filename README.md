@@ -337,7 +337,7 @@ You can check more about the admission process on the 1337 website: https://1337
 <br><br>
     </div> 
     <div>
-  		<a href="linkedin.com/in/mouad-o-ba971712a" target="_blank">
+  		<a href="https://linkedin.com/in/mouad-o-ba971712a" target="_blank">
 			<img align="center" alt="LinkedIn" height="60" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png">
 		</a>
 		<a href="https://www.instagram.com/mouad_oudrib" target="_blank">
