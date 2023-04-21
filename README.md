@@ -309,7 +309,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			7
 		</td>
 		<td>
-			ft_trascendence
+			ft_transcendence
 		</td>
 		<td>
 		</td>
