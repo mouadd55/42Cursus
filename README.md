@@ -179,10 +179,10 @@ You can check more about the admission process on the 1337 website: https://1337
 			C
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img src="" alt="" />
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2537426" alt="moudrib's 42 Philosophers Score" />
 		</td>
 	</tr>
 	<tr>
