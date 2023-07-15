@@ -122,23 +122,6 @@ You can check more about the admission process on the 1337 website: https://1337
 			3
 		</td>
 		<td>
-			Push_swap
-		</td>
-		<td>
-			C
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2495633" alt="moudrib's 42 Push_swap Score" />
-		</td>
-	</tr>
-	<tr>
-		<td>
-			3
-		</td>
-		<td>
 			<a href="https://github.com/mouadd55/Minitalk-42Cursus">Minitalk</a>
 		</td>
 		<td>
@@ -156,6 +139,23 @@ You can check more about the admission process on the 1337 website: https://1337
 			3
 		</td>
 		<td>
+			Push_swap
+		</td>
+		<td>
+			C
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2495633" alt="moudrib's 42 Push_swap Score" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			3
+		</td>
+		<td>
 			<a href="https://github.com/mouadd55/So_long-42Cursus">So Long</a>
 		</td>
 		<td>
@@ -166,6 +166,23 @@ You can check more about the admission process on the 1337 website: https://1337
 		</td>
 		<td>
 			<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/project/2537426" alt="moudrib's 42 so_long Score" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			3
+		</td>
+		<td>
+			Exam Rank 02
+		</td>
+		<td>
+			C
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3064434" alt="moudrib's 42 Exam Rank 02 Score" />
 		</td>
 	</tr>
 	<tr>
@@ -196,10 +213,44 @@ You can check more about the admission process on the 1337 website: https://1337
 			C
 		</td>
 		<td>
+			4
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3040568" alt="moudrib's 42 Minishell Score" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			4
+		</td>
+		<td>
+			Exam Rank 03
+		</td>
+		<td>
+			C
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3064434" alt="moudrib's 42 Exam Rank 03 Score" />
+		</td>
+	</tr>
+		<tr>
+		<td>
+			5
+		</td>
+		<td>
+			NetPractice
+		</td>
+		<td>
+			</br>
+		</td>
+		<td>
 			0
 		</td>
 		<td>
-			<img src="" alt="" />
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3164323" alt="" />
 		</td>
 	</tr>
 	<tr>
@@ -238,13 +289,13 @@ You can check more about the admission process on the 1337 website: https://1337
 	</tr>
 	<tr>
 		<td>
-			5
+			3
 		</td>
 		<td>
-			NetPractice
+			Exam Rank 04
 		</td>
 		<td>
-			</br>
+			C
 		</td>
 		<td>
 			0
