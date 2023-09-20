@@ -247,10 +247,10 @@ You can check more about the admission process on the 1337 website: https://1337
 			</br>
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3164323" alt="" />
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3064434" alt="moudrib's 42 NetPractice Score" />
 		</td>
 	</tr>
 	<tr>
@@ -264,7 +264,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			C
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
 			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3164323" alt="" />
@@ -298,7 +298,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			C
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
 			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3064434" alt="moudrib's 42 Exam Rank 04 Score" />
