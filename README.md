@@ -139,7 +139,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			3
 		</td>
 		<td>
-			Push_swap
+			<a href="https://github.com/mouadd55/Push_swap-42Cursus">Push_swap</a>
 		</td>
 		<td>
 			C
@@ -190,7 +190,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			4
 		</td>
 		<td>
-			Philosophers
+			<a href="https://github.com/mouadd55/Philosophers-42Cursus">Philosophers</a>
 		</td>
 		<td>
 			C
@@ -207,7 +207,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			4
 		</td>
 		<td>
-			Minishell
+			<a href="https://github.com/mouadd55/Philosophers-42Cursus">Minishell</a>
 		</td>
 		<td>
 			C
