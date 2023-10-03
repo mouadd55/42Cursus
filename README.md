@@ -211,7 +211,7 @@ You can check more about the admission process on the 1337 website: https://1337
 			4
 		</td>
 		<td>
-			<a href="https://github.com/mouadd55/Philosophers-42Cursus">Minishell</a>
+			<a href="https://github.com/mouadd55/Minishell-42Cursus">Minishell</a>
 		</td>
 		<td>
 			C
