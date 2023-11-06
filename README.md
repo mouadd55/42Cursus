@@ -285,10 +285,10 @@ You can check more about the admission process on the 1337 website: https://1337
 			C++
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img src="" alt="" />
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3064434" alt="moudrib's 42 Cpp [0-4] Score" />
 		</td>
 	</tr>
 	<tr>
