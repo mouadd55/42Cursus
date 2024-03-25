@@ -353,10 +353,10 @@ You can check more about the admission process on the 1337 website: https://1337
 			</br>  
 		</td>
 		<td>
-			0
+			2
 		</td>
 		<td>
-			<img src="" alt="" />
+			<img src="https://badge42.vercel.app/api/v2/clgbdk824000608lev5dbbmbu/project/3164323" alt="moudrib's 42 Inception Score" />
 		</td>
 	</tr>
 	<tr>
