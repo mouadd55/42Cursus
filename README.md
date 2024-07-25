@@ -15,9 +15,10 @@
     <a href="" target="_blank"><img align="center" alt="NetPractice" src="https://github.com/mouadd55/42Cursus/assets/49005437/7e3a17f5-8e9c-46d4-af4f-052f995183ad"> </a>
 	<a href="" target="_blank"><img align="center" alt="Cub3D" src="https://github.com/mouadd55/42Cursus/assets/49005437/9791f475-35ab-4255-b732-ae15c8505c49"> </a>
 	<a href="" target="_blank"><img align="center" alt="CppModules" src="https://github.com/mouadd55/42Cursus/assets/49005437/7f34aeae-f74b-4cd7-8753-ffbf9ecd3a12"> </a>
-	<a href="" target="_blank"><img align="center" alt="Webserv" src="https://github.com/mouadd55/42Cursus/assets/49005437/71137f92-7715-4f37-b664-2aeb4de37940"> </a>
-	<a href="" target="_blank"><img align="center" alt="Inception" src="https://github.com/mouadd55/42Cursus/assets/49005437/e33e2dd7-2e67-427e-97fa-fbe9dcac42b2"> </a>
+	<a href="" target="_blank"><img align="center" alt="ft_irc" src="https://github.com/mouadd55/42Cursus/assets/49005437/71137f92-7715-4f37-b664-2aeb4de37940"> </a>
+	<a href="" target="_blank"><img align="center" alt="Inception" src="https://github.com/user-attachments/assets/640d5cad-544c-4b54-9957-ab08b26ecfc4"> </a>
 	<a href="" target="_blank"><img align="center" alt="Ft_transcendence" src="https://github.com/mouadd55/42Cursus/assets/49005437/2dc3e128-ada2-43af-866c-36f0fe5832ef"> </a>
+
 
 <h2 align="center" id="42-cursus">
 	42 Cursus 
